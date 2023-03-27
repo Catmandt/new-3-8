@@ -1,0 +1,21 @@
+html, body {
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-image: url('bg.jpeg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+  color: blueviolet;
+  cursor: url(minecraft.png), pointer;
+}
+h2 {
+  color: red;
+}
